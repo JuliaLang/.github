@@ -16,8 +16,7 @@ If you believe one of these standards has been violated, you can either file an 
 **Be concise.**
 Constructive criticism and suggestions are welcome, but high-traffic forums do not generally have the bandwidth for extensive discourse. Consider writing a blog post if you feel that you have enough to say on a particular subject.
 
-### For Researchers
-
+**For Researchers.**
 We welcome the participation of researchers of all kinds in the Julia community. However, please remember that open source development is a social process and that the participants on the other side of any interaction are (obviously) humans. If you are doing research *on the community or its processes*, you are likely performing Human Subjects Research (HSR) and are expected to abide by the highest standards of ethics and professional practice. Meeting this expectation is your responsibility. In particular, please be aware that Institutional Review Boards (IRBs) or other review committees may not have sufficient context or experience to understand the social processes of an open source community. We consider engaging in unethical research (human subject or otherwise) to be a cause for bans or other sanctions from the community.
 
 **Get involved.**
